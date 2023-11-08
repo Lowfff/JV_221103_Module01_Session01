@@ -22,3 +22,8 @@ Cách để biến đổi một thẻ inline thành block và ngược lại blo
 Select + Option (luôn đi đôi)
 ul + il (luôn đi đôi)
 CÁCH ĐỂ LÀM LUỸ THƯA : số + <sup>số mũ</sup>
+git add.
+git commit -m "tên"
+git push 
+git add .enter
+git status (kiểm tra trạng thái file)

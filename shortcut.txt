@@ -3,5 +3,5 @@
 +Focus chuột vào dòng cần coppy: ctrl+c và ctrl+v 
 +Alt+Shift+mũi tên đi lên/xuống
 -Thay đổi những đoạn text giống nhau:
-+Bôi đen những đoạn text giống nhau: ctrl+shift+L (để chọn tất cả) hoặc ctrl+D chọn từng cái 
++Bôi đen những đoạn text giống nhau: ctrl+shift+L (để chọn tất cả) hoặc ct chọn từng cái 
 
